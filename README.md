@@ -1,5 +1,7 @@
 # Visual-Studio-Download-Links
 
+由于 Visual Studio 官方不再提供旧版本的下载入口，所以本项目就出现了。
+
 ## Visual Studio 2019
 
 | 下载内容 | 描述 | 文件名 | 下载链接 (短) | 下载链接 |
