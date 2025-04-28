@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td rowspan = 3>Visual Studio 2019 远程工具</td>
-            <td rowspan = 3>借助 Visual Studio 2022 远程工具，可以在未安装 Visual Studio 的计算机上执行应用部署、远程调试、远程测试、性能分析和单元测试。 使用此工具需要有效的 Visual Studio 许可证。</td>
+            <td rowspan = 3>借助 Visual Studio 2019 远程工具，可以在未安装 Visual Studio 的计算机上执行应用部署、远程调试、远程测试、性能分析和单元测试。 使用此工具需要有效的 Visual Studio 许可证。</td>
             <td rowspan = 3>VS_RemoteTools.exe</td>
             <td><a href="https://aka.ms/vs/16/release/RemoteTools.amd64ret.chs.exe">RemoteTools.amd64ret.chs.exe</a></td>
         </tr>
@@ -52,7 +52,7 @@
         </tr>
         <tr>
             <td rowspan = 2>Agents for Visual Studio 2019</td>
-            <td rowspan = 2>Agents for Visual Studio 2022 可用于负载测试、功能测试和自动测试。 使用此工具需要有效的 Visual Studio 许可证。</td>
+            <td rowspan = 2>Agents for Visual Studio 2019 可用于负载测试、功能测试和自动测试。 使用此工具需要有效的 Visual Studio 许可证。</td>
             <td>vs_TestAgent.exe</td>
             <td><a href="https://aka.ms/vs/16/release/vs_TestAgent.exe">vs_TestAgent.exe</a></td>
         </tr>
